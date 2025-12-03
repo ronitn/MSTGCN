@@ -1,0 +1,4 @@
+{'acc': , 'loss': , 'val_acc': , 'val_loss': }
+
+
+{'Domain_accuracy': , 'Domain_loss': , 'Label_accuracy': , 'Label_loss': , 'loss': , 'val_Domain_accuracy': , 'val_Domain_loss': , 'val_Label_accuracy': , 'val_Label_loss': , 'val_loss': }
